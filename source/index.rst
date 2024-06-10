@@ -1,4 +1,5 @@
-===========================
+=====typical Python package structure looks like this:
+======================
 Python Packaging User Guide
 ===========================
 
